@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\blank.xnb</Output>
+      <Time>2011-06-09T12:37:46.609914-07:00</Time>
+    </Item>
+    <Item>
+      <Source>square.png</Source>
+      <Name>square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\square.xnb</Output>
+      <Time>2011-05-19T18:24:02.8388787-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DownArrow.png</Source>
+      <Name>DownArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\DownArrow.xnb</Output>
+      <Time>2011-05-24T19:19:05.0615104-07:00</Time>
+    </Item>
+    <Item>
+      <Source>LeftArrow.png</Source>
+      <Name>LeftArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\LeftArrow.xnb</Output>
+      <Time>2011-05-24T19:19:05.0635105-07:00</Time>
+    </Item>
+    <Item>
+      <Source>RightArrow.png</Source>
+      <Name>RightArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\RightArrow.xnb</Output>
+      <Time>2011-05-24T19:19:05.0665107-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UpArrow.png</Source>
+      <Name>UpArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\UpArrow.xnb</Output>
+      <Time>2011-05-24T19:19:05.0695109-07:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\background.xnb</Output>
+      <Time>2011-06-07T14:06:03.0649813-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\gradient.xnb</Output>
+      <Time>2011-06-09T12:17:27.8837206-07:00</Time>
+    </Item>
+    <Item>
+      <Source>zoom.png</Source>
+      <Name>zoom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\zoom.xnb</Output>
+      <Time>2011-07-21T19:39:38.5579407-07:00</Time>
+    </Item>
+    <Item>
+      <Source>magZoomEffect.png</Source>
+      <Name>magZoomEffect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\magZoomEffect.xnb</Output>
+      <Time>2011-08-10T11:47:50.100783-07:00</Time>
+    </Item>
+    <Item>
+      <Source>paperBackground.jpg</Source>
+      <Name>paperBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\paperBackground.xnb</Output>
+      <Time>2011-08-10T12:18:49.6966299-07:00</Time>
+    </Item>
+    <Item>
+      <Source>touched.png</Source>
+      <Name>touched</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\touched.xnb</Output>
+      <Time>2011-08-27T22:21:57.7872833-07:00</Time>
+    </Item>
+    <Item>
+      <Source>untouched.png</Source>
+      <Name>untouched</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\untouched.xnb</Output>
+      <Time>2011-08-27T22:22:09.2979417-07:00</Time>
+    </Item>
+    <Item>
+      <Source>pause.png</Source>
+      <Name>pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\pause.xnb</Output>
+      <Time>2011-08-28T21:54:48.2035895-07:00</Time>
+    </Item>
+    <Item>
+      <Source>particle.png</Source>
+      <Name>particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\particle.xnb</Output>
+      <Time>2011-08-30T21:04:43.8547481-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2011-05-09T11:01:36.9374295-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\menufont.xnb</Output>
+      <Time>2011-06-09T12:32:25.9066457-07:00</Time>
+    </Item>
+    <Item>
+      <Source>leFont.spritefont</Source>
+      <Name>leFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\leFont.xnb</Output>
+      <Time>2011-08-18T21:03:59.5521224-07:00</Time>
+    </Item>
+    <Item>
+      <Source>postIt.png</Source>
+      <Name>postIt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\postIt.xnb</Output>
+      <Time>2012-01-16T16:49:42.0166352-08:00</Time>
+    </Item>
+    <Item>
+      <Source>gamePauseTitleFont.spritefont</Source>
+      <Name>gamePauseTitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\gamePauseTitleFont.xnb</Output>
+      <Time>2012-01-16T17:07:44.0735253-08:00</Time>
+    </Item>
+    <Item>
+      <Source>gamePauseOptionsFont.spritefont</Source>
+      <Name>gamePauseOptionsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\gamePauseOptionsFont.xnb</Output>
+      <Time>2012-01-18T20:52:56.4743597-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{97C33FAE-C23E-4A21-A85A-A6CABF4A7CFD}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\TripitasContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-12-20T23:49:10.6039233-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

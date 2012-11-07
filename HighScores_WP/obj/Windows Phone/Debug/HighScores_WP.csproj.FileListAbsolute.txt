@@ -1,0 +1,6 @@
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\bin\Windows Phone\Debug\HighScores_WP.dll
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\bin\Windows Phone\Debug\HighScores_WP.pdb
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Debug\HighScores_WP.dll
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Debug\HighScores_WP.pdb

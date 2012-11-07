@@ -1,0 +1,5 @@
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\Tripitas\TripitasContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\Tripitas\TripitasContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\TripitasContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\TripitasContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\Tripitas\TripitasContent\obj\Windows Phone\Release\TripitasContent.contentprojResolveAssemblyReference.cache

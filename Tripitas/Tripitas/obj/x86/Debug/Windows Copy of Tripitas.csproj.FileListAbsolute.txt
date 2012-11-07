@@ -1,0 +1,8 @@
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\x86\Debug\Content\blackPixel.xnb
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\x86\Debug\Tripitas.exe
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\Tripitas\Tripitas\bin\x86\Debug\Tripitas.pdb
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\Tripitas\Tripitas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\Tripitas\Tripitas\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\Tripitas\Tripitas\obj\x86\Debug\Tripitas.exe
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\Tripitas\Tripitas\obj\x86\Debug\Tripitas.pdb

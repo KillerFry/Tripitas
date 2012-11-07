@@ -1,0 +1,6 @@
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\bin\Windows Phone\Debug\DuckieParticlesWP.dll
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\bin\Windows Phone\Debug\DuckieParticlesWP.pdb
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Debug\DuckieParticlesWP.dll
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Debug\DuckieParticlesWP.pdb

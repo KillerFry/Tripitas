@@ -1,0 +1,29 @@
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.dll
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.pdb
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.dll
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.pdb
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.dll
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.pdb
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.dll
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.pdb
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.dll
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.pdb
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.dll
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.pdb
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.dll
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.pdb
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.dll
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.pdb
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.dll
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\bin\Windows Phone\Release\DuckieParticlesWP.pdb
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.dll
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\DuckieParticlesWP\obj\Windows Phone\Release\DuckieParticlesWP.pdb

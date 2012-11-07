@@ -1,0 +1,6 @@
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticles\bin\x86\Release\DuckieParticles.dll
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticles\bin\x86\Release\DuckieParticles.pdb
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticles\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticles\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticles\obj\x86\Release\DuckieParticles.dll
+C:\Users\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\DuckieParticles\obj\x86\Release\DuckieParticles.pdb

@@ -1,0 +1,9 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Tripitas" EntryPointType="Tripitas.Game1" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Tripitas" Source="Tripitas.dll" />
+    <AssemblyPart x:Name="DuckieGameState" Source="DuckieGameState.dll" />
+    <AssemblyPart x:Name="DuckieInput" Source="DuckieInput.dll" />
+    <AssemblyPart x:Name="DuckieParticlesWP" Source="DuckieParticlesWP.dll" />
+    <AssemblyPart x:Name="HighScores_WP" Source="HighScores_WP.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,29 @@
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.dll
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.pdb
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.dll
+C:\Users\KillerFry\documents\visual studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.pdb
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.dll
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.pdb
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.dll
+C:\Users\KillerFry\Documents\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.pdb
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.dll
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.pdb
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.dll
+E:\Daisy\Documents\Visual Studio 2010\Projects\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.pdb
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.dll
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.pdb
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.dll
+D:\KillerFry\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.pdb
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.dll
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\bin\Windows Phone\Release\HighScores_WP.pdb
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.dll
+E:\LeGrandBackup\Documents\Visual Studio 2010\Projects\Tripitas\Tripitas\HighScores_WP\obj\Windows Phone\Release\HighScores_WP.pdb
